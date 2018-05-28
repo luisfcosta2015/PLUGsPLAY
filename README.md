@@ -34,7 +34,7 @@ git clone https://github.com/luisfcosta2015/PLUGsPLAY
 
 ## Como contribuir
 
-<p align="justify">Os contribuintes podem colaborar para manter e evoluir o sistema através da correção de bugs e implementação de novas funcionalidades, que estão listados na pipeline "Opened Issues" no Board do projeto.</p>
+<p align="justify">Os contribuintes podem colaborar para manter e evoluir a iniciativa através da correção de bugs e implementação de novas funcionalidades, que estão listados na pipeline "Opened Issues" no Board do projeto.</p>
 
 Documentação
 
