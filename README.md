@@ -26,7 +26,14 @@ Rio Grande - RS
 
 <p align="justify">PLUGsPLAY é uma iniciativa desenvolvida a partir da necessidade de desenvolvimento de softwares públicos por diversos atores como empresas privadas, terceiro setor, governos e sociedade. Esta iniciativa começará com um projeto piloto com 3 comunidades de softwares públicos: E-Cidade, I-Educar e Educatux. Pretendemos usar o Kernel Alpha da SEMAT para propor uma dinâmica que seja transparente, colaborativa e fácil de desenvolver softwares públicos.</p> 
 
-Se tem o interesse em contribuir para a iniciativa PLUGsPLAY , confira o guia de contribuições.
+Se tem o interesse em contribuir para a iniciativa PLUGsPLAY , confira o guia de contribuições aqui:<a href="https://github.com/luisfcosta2015/PLUGsPLAY/wiki/Guia-de-Contribui%C3%A7%C3%B5es">aqui</a>. 
+
+## Times de Desenvolvimento:
+
+| Nome | Jogador 
+| --- | --- |
+|Luis Felipe Coimbra Costa | Coelho 
+
 
 Primeiro passo para a instalação do projeto é baixar o repositório com o seguinte comando:
 
@@ -38,4 +45,4 @@ git clone https://github.com/luisfcosta2015/PLUGsPLAY
 
 Documentação
 
-Toda a documentação pode ser acessada através da wiki do projeto aqui.
+Toda a documentação pode ser acessada através da wiki do projeto aqui:<a href="https://github.com/luisfcosta2015/PLUGsPLAY/wiki">aqui</a>. 
