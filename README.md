@@ -3,8 +3,14 @@
 
 ## 2018.1 - Dinâmica Coletiva para a produção de softwares públicos 
 
-<p align="justify">PLUGsPLAY é o nome dado a construção coletiva de uma dinâmica para a produção de softwares públicos. O termo Engenharia de Software(ES), teve sua disseminação, principalmente baseada em um fato ocorrido e conhecido como a “Crise do Software”, no final da década de 1960.</p>
-<p align="justify">Surgiu então a utilização do termo Engenharia de Software(ES), como uma área uma área da computação buscando a organização, produtividade e qualidade. Em 1983, Richard Stallman, passou por uma experiência negativa com um software  comercial e deu origem ao Projeto GNU. Durante o período que estava no MIT ele identificou uma falha no software de uma impressora Xerox. Tentou corrigi-la, mas a empresa não liberou o código-fonte. A partir de 1989, com a publicação da licença GNU GPL Stallman começou seu trabalho de disseminação da filosofia do software livre principalmente através da Free Software Foundation.</p>
+<p align="justify">PLUGsPLAY é o nome dado a construção coletiva de uma dinâmica para a produção de softwares públicos.</p>
+
+<p align="justify">O termo Engenharia de Software(ES), teve sua disseminação, principalmente baseada em um fato ocorrido e conhecido como a “Crise do Software”, no final da década de 1960.</p>
+
+<p align="justify">Surgiu então a utilização do termo Engenharia de Software(ES), como uma área uma área da computação buscando a organização, produtividade e qualidade no desenvolvimento de software.</p>
+
+<p align="justify">Em 1983, Richard Stallman, passou por uma experiência negativa com um software  comercial e deu origem ao Projeto GNU. Durante o período que estava no MIT ele identificou uma falha no software de uma impressora Xerox. Tentou corrigi-la, mas a empresa não liberou o código-fonte. A partir de 1989, com a publicação da licença GNU GPL Stallman começou seu trabalho de disseminação da filosofia do software livre principalmente através da Free Software Foundation.</p>
+
 <p align="justify">Já em 1991, Linus Torvalds,  começou seu projeto de construir um núcleo livre, o que é conhecido como Linux dando origem ao sistema operacional GNU/Linux.</p>
 <p align="justify">Em 1997, Eric Raymond, apresenta o artigo "A catedral e o Bazar, onde discute as vantagens técnicas do software livre e aborda os mecanismos de funcionamento do desenvolvimento de software descentralizado. Em 1998, Raymond foi um dos protagonistas, junto com Linus Torvalds, da criação da Open Software Iniciative - OSI, defendendo a adoção do software livre por razões técnicas e sugerindo o uso da expressão open source ao invés de free software, evitando a ambiguidade do termo free (que pode significar tanto livre quanto gratuito, na língua inglesa).</p>
 <p align="justify">Desde o início dos anos 2000, inúmeras iniciativas surgem buscando aplicar um padrão tecnológico, baseados nas estruturas essenciais da ES, como métodos, técnicas, processos e ferramentas, para obter como resultado final uma qualidade em produção de artefatos, relacionados com o código fonte. A diminuição de ocorrências de falhas nos projetos de desenvolvimento de software dependem da relação harmônica entre todos estes elementos que estão reunidos compartilhando informações entre si e gerando fatos e artefatos.</p>
