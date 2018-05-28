@@ -24,7 +24,7 @@ Dbesller: E-cidade
 
 Portabilis: I-Educar
 
-ATX: Educatux
+ETX: Educatux
 
 PLUGsPLAY vai mapear os processos de softwares de 3 prefeituras que usam softwares públicos:
 
