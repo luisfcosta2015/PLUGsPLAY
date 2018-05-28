@@ -24,7 +24,7 @@ Rio Grande - RS
 
 <p align="justify">Este mapeamento irá permitir uma análise sobre o atual cenário de desenvolvimento de softwares públicos, em específico estas três comunidades. Após esta análise será elaborado um conjunto de iniciativas que podem ser aplicadas as três empresas e as três comunidades de forma que a colaboração de código tenha maior produtividade e engajamento. A ideia é verificar quais são as melhores práticas e a governança necessária para atender aos interesses de todos os atores(empresas, governos e sociedade).</p>
 
-<p align="justify">PLUGsPLAY é uma iniciativa desenvolvida a partir da necessidade de desenvolvido de softwares públicos por diversos atores como empresas privadas, terceiro setor, governos e sociedade. Esta iniciativa começará com um projeto piloto com 3 comunidades de softwares públicos: E-Cidade, I-Educar e Educatux. Pretendemos usar o Kernel Alpha da SEMAT para propor uma dinâmica que seja transparente, colaborativa e fácil de desenvolver softwares públicos.</p> 
+<p align="justify">PLUGsPLAY é uma iniciativa desenvolvida a partir da necessidade de desenvolvimento de softwares públicos por diversos atores como empresas privadas, terceiro setor, governos e sociedade. Esta iniciativa começará com um projeto piloto com 3 comunidades de softwares públicos: E-Cidade, I-Educar e Educatux. Pretendemos usar o Kernel Alpha da SEMAT para propor uma dinâmica que seja transparente, colaborativa e fácil de desenvolver softwares públicos.</p> 
 
 Se tem o interesse em contribuir para a iniciativa PLUGsPLAY , confira o guia de contribuições.
 
