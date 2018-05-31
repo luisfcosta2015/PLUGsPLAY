@@ -1,7 +1,7 @@
 # PLUGsPLAY
 <p align="center"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8lNdLPh0h-iXzDC-wr7PAxyPGIv9YdyDnFfIAgfEb4qxeoOK2rA" width="350px"></p>
 
-## 2018.1 - Dinâmica Coletiva para a produção de softwares públicos 
+## Engenharia de Sistemas e Computação-UFRJ-2018 - Dinâmica Coletiva para a produção de softwares públicos 
 
 <p align="justify">PLUGsPLAY é o nome dado a construção coletiva de uma dinâmica para a produção de softwares públicos.</p>
 
