@@ -8,7 +8,7 @@
 
 <p align="justify">O termo Engenharia de Software(ES), teve sua disseminação, principalmente baseada em um fato ocorrido e conhecido como a “Crise do Software”, no final da década de 1960.</p>
 
-<p align="justify">Surgiu então a utilização do termo Engenharia de Software(ES), como uma área uma área da computação buscando a organização, produtividade e qualidade no desenvolvimento de software.</p>
+<p align="justify">Surgiu então a utilização do termo ES, como uma área uma área da computação buscando a organização, produtividade e qualidade no desenvolvimento de software.</p>
 
 <p align="justify">Em 1983, Richard Stallman, passou por uma experiência negativa com um software  comercial e deu origem ao Projeto GNU. Durante o período que estava no MIT ele identificou uma falha no software de uma impressora Xerox. Tentou corrigi-la, mas a empresa não liberou o código-fonte. A partir de 1989, com a publicação da licença GNU GPL Stallman começou seu trabalho de disseminação da filosofia do software livre principalmente através da Free Software Foundation.</p>
 
@@ -37,7 +37,7 @@ Rio Grande - RS
 
 <p align="justify">Este mapeamento irá permitir uma análise sobre o atual cenário de desenvolvimento de softwares públicos, em específico estas três comunidades. Após esta análise será elaborado um conjunto de iniciativas que podem ser aplicadas as três empresas e as três comunidades de forma que a colaboração de código tenha maior produtividade e engajamento. A ideia é verificar quais são as melhores práticas e a governança necessária para atender aos interesses de todos os atores(empresas, governos e sociedade).</p>
 
-<p align="justify">PLUGsPLAY é uma iniciativa desenvolvida a partir da necessidade de desenvolvimento de softwares públicos por diversos atores como empresas privadas, terceiro setor, governos e sociedade. Esta iniciativa começará com um projeto piloto com 3 comunidades de softwares públicos: E-Cidade, I-Educar e Educatux. Pretendemos usar o Kernel Alpha da SEMAT para propor uma dinâmica que seja transparente, colaborativa e fácil de desenvolver softwares públicos.</p> 
+<p align="justify">PLUGsPLAY é uma iniciativa desenvolvida a partir da necessidade de desenvolvimento de softwares públicos por diversos atores como empresas privadas, terceiro setor, governos e sociedade. Esta iniciativa começará com um projeto piloto com 3 comunidades de softwares públicos: E-Cidade, I-Educar e Educatux. Pretendemos usar o Kernel Essence da <a href= "http://http://semat.org/">SEMAT</a>. para propor uma dinâmica que seja transparente, colaborativa e fácil de desenvolver softwares públicos.</p> 
 
 Se tem o interesse em contribuir para a iniciativa PLUGsPLAY , confira o guia de contribuições <a href="https://github.com/luisfcosta2015/PLUGsPLAY/wiki/Guia-de-Contribui%C3%A7%C3%B5es">aqui</a>. 
 
