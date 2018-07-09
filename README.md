@@ -45,7 +45,8 @@ Se tem o interesse em contribuir para a iniciativa PLUGsPLAY , confira o guia de
 
 | Nome | Jogador 
 | --- | --- |
-|Luis Felipe Coimbra Costa | Coelho 
+|Luis Felipe Coimbra Costa | Coelho
+|Maya Reyes-Ricon | Coelho
 
 
 Primeiro passo para a instalação do projeto é baixar o repositório com o seguinte comando:
