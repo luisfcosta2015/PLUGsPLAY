@@ -1,5 +1,5 @@
 # Protótipo Tabuleiro JHA
-<p align="center"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8lNdLPh0h-iXzDC-wr7PAxyPGIv9YdyDnFfIAgfEb4qxeoOK2rA" width="350px"></p>
+<p align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Heroesjourney.svg/800px-Heroesjourney.svg.png" width="350px"></p>
 
 
 Se tem o interesse em contribuir para a iniciativa PLUGsPLAY , confira o guia de contribuições <a href="https://github.com/luisfcosta2015/PLUGsPLAY/wiki/Guia-de-Contribui%C3%A7%C3%B5es">aqui</a>. 
